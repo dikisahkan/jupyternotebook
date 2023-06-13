@@ -5,6 +5,8 @@ This notebook is created as a second capstone project for me to participate in D
 
 The dataset used here is a Supermarket Marketing Campaign data. It's attached in this repo or you can also download it through Kaggle [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign) for recent file version.
 
+You can see the presentation version [here](https://www.canva.com/design/DAFlcOWdrRM/4AriDlVwh6SJCz04kBViwg/view?utm_content=DAFlcOWdrRM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ---
 
 ## **What i do in the Analysis?**
