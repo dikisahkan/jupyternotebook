@@ -5,7 +5,9 @@ This notebook is created as a second capstone project for me to participate in D
 
 The dataset used here is a Supermarket Marketing Campaign data. It's attached in this repo or you can also download it through Kaggle [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign) for recent file version.
 
-You can see the presentation version [here](https://www.canva.com/design/DAFlcOWdrRM/4AriDlVwh6SJCz04kBViwg/view?utm_content=DAFlcOWdrRM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+You can see the Tableau Visualization version [here](https://public.tableau.com/app/profile/diki.renanda/viz/SupermarketCampaign-CapstoneProjMod2-DikiRenanda/SupermarketCampaignAnalysisbyDikiRenanda?publish=yes)
+
+You can see the Presentation version [here](https://www.canva.com/design/DAFlcOWdrRM/4AriDlVwh6SJCz04kBViwg/view?utm_content=DAFlcOWdrRM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ---
 
