@@ -9,6 +9,8 @@ You can see the Tableau Visualization [here](https://public.tableau.com/app/prof
 
 You can see the Presentation version [here](https://www.canva.com/design/DAFlcOWdrRM/4AriDlVwh6SJCz04kBViwg/view?utm_content=DAFlcOWdrRM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+You can see Kaggle version [here](https://www.kaggle.com/code/dikisahkan/campaign-analysis-cleansing-eda-recommendation)
+
 ---
 
 ## **What i do in the Analysis?**
