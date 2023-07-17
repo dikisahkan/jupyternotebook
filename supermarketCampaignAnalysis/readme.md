@@ -163,4 +163,4 @@ If budget is good, also boost on Web
 
 ---
 
-###### **This notebook is created by Diki Renanda / @dikisahkan. You can reach me through any social media GitHub, Medium, LinkedIn, IG, and TikTok.**
+###### **This notebook is created by Diki Renanda / @dikisahkan. You can reach me through any social media GitHub, Kaggle, Medium, LinkedIn, IG, and TikTok.**
