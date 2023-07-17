@@ -14,3 +14,6 @@ You can also download this data from my [Kaggle](https://www.kaggle.com/datasets
 **Content:** Basically this data is simulation for Transaction data in Transjakarta. It does not represent the real data / structure used in Transjakarta
 
 **Inspiration:** Transjakarta is growing as public transportation company. But none have shared data for the transaction analysis. We can analyze which route are busy and not. Which route is heavy with traffic jam or not. And other dimension provided you can analyze.
+
+---
+###### **This notebook is created by Diki Renanda / @dikisahkan. You can reach me through any social media GitHub, Kaggle, Medium, LinkedIn, IG, and TikTok.**
