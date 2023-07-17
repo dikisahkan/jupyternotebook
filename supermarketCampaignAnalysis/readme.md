@@ -11,6 +11,8 @@ You can see the Presentation version [here](https://www.canva.com/design/DAFlcOW
 
 You can see Kaggle version [here](https://www.kaggle.com/code/dikisahkan/campaign-analysis-cleansing-eda-recommendation)
 
+You can see Medium (story telling version) [here](https://dikisahkan.medium.com/supermarket-campaign-analysis-using-jupyter-notebook-70e6126d71e0)
+
 ---
 
 ## **What i do in the Analysis?**
